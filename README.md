@@ -12,7 +12,7 @@
 <body>
   <reading-bar selector="article" height=".4em" background="linear-gradient(to right, green, lime)"></reading-bar>
 ...
-  <script src="https://cdn.jsdelivr.net/npm/@tigersway/reading-bar@1.0.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tigersway/reading-bar@1.0.0" type="module"></script>
 </body>
 </html>
 ```
